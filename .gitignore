@@ -1,0 +1,9 @@
+# Ignore the .env file inside the backend folder
+backend/.env
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore other unnecessary files
+*.log
+*.DS_Store
